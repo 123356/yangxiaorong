@@ -2,5 +2,5 @@ https://123356.github.io/xiaomix/
 https://123356.github.io/sn/	
 https://123356.github.io/new/
 https://123356.github.io/yiju/
-https://123356.github.io/flower/
+https://123356.github.io/flower/index.html
 https://123356.github.io/weather/index.html
